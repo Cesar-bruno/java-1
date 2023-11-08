@@ -18,7 +18,7 @@ public class Calculadora {
 		System.out.println("subtração é igual a = " + (numero1 - numero2));
 		System.out.println("divisao é igual a = " + (numero1 / numero2));
 		
-		System.out.println(" raiz quadra do número 1 é = " + (Math.sqrt(numero1)));
+		System.out.println("raiz quadra do número 1 é = " + (Math.sqrt(numero1)));
 		System.out.println("potencia do número 2 é = " + (Math.pow(numero1, numero2)));
 		
 	}
